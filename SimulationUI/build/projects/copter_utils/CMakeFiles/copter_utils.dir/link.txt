@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcopter_utils.a CMakeFiles/copter_utils.dir/CopterUtils.cpp.o CMakeFiles/copter_utils.dir/Log.cpp.o CMakeFiles/copter_utils.dir/RandomGenerator.cpp.o
+/usr/bin/ranlib libcopter_utils.a
